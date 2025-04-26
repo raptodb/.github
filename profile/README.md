@@ -7,7 +7,7 @@
 <br><br>
 
 <p align="center">
-  <strong>Rapto</strong> is an high-performance computing database with cache-based architecture.
+  <strong>Rapto</strong> is a <ins>next-gen</ins> database with CAS model and SIMD operations.
 </p>
 
 <br>
@@ -18,5 +18,6 @@
 <h2>See also</h2>
 
 <ul>
+  <li>What is <a href="https://github.com/raptodb/rapto?tab=readme-ov-file#cas">CAS<a>?</li>
   <li><a href="https://github.com/raptodb/rapto/blob/unstable/.github/CODE_OF_CONDUCT.md">CODE OF CONDUCT<a></li>
 </ul>
