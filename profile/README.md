@@ -18,6 +18,6 @@
 <h2>See also</h2>
 
 <ul>
-  <li>What is <a href="https://github.com/raptodb/rapto?tab=readme-ov-file#cas">CAS<a>?</li>
+  <li><a href="https://github.com/raptodb/rapto?tab=readme-ov-file#cas">CAS<a></li>
   <li><a href="https://github.com/raptodb/rapto/blob/unstable/.github/CODE_OF_CONDUCT.md">CODE OF CONDUCT<a></li>
 </ul>
