@@ -7,7 +7,8 @@
 <br><br>
 
 <p align="center">
-  For engineers seeking a fast, memory-efficient data engine, <strong>Rapto</strong> provides transposition-heuristic storage, low memory footprint, and high-performance querying.
+  For engineers seeking a fast, memory-efficient data engine, <br>
+  <strong>Rapto</strong> provides transposition-heuristic storage, low memory footprint and high-performance querying.
 </p>
 
 <br>
